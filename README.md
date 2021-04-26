@@ -26,7 +26,7 @@ Project is created with:
 
 ## Setup
 To run this project, install docker on your engine and use docker-compose to build the project
-Make sure Docker is running by using systemctl on Linux beforehand
+Make sure Docker is running by using systemctl on Linux beforehand.
 ```sh
 systemctl start docker
 ```
